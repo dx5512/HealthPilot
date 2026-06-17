@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "admin_001",
+    "username": "admin",
+    "name": "系统管理员",
+    "hashed_password": "$2b$12$T4cthSBLCPsDzNnOJpteGun7hUl47XIM7FiXyRit0bfgQhYiL2gde",
+    "role": "admin",
+    "is_active": true,
+    "created_at": "2026-06-15T08:30:21.740510+00:00"
+  },
+  {
+    "user_id": "user_001",
+    "username": "user01",
+    "name": "普通用户",
+    "hashed_password": "$2b$12$zBjZ5/PYAGFl6C0g.W3v4O43J4H7CEP2m/RBR43CcuqzXU9UVNI3C",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2026-06-15T08:30:21.740510+00:00"
+  }
+]

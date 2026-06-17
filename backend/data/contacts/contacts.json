@@ -1,0 +1,118 @@
+{
+  "resident_001": {
+    "resident_name": "张大爷",
+    "contacts": [
+      {
+        "id": "c001",
+        "name": "张明",
+        "relation": "儿子",
+        "phone": "13800001234",
+        "notify_method": "sms",
+        "quiet_hours_start": null,
+        "quiet_hours_end": null
+      },
+      {
+        "id": "c002",
+        "name": "张丽",
+        "relation": "女儿",
+        "phone": "13900005678",
+        "notify_method": "wechat",
+        "quiet_hours_start": "22:00",
+        "quiet_hours_end": "07:00"
+      }
+    ]
+  },
+  "resident_002": {
+    "resident_name": "李奶奶",
+    "contacts": [
+      {
+        "id": "c001",
+        "name": "李强",
+        "relation": "儿子",
+        "phone": "13700001111",
+        "notify_method": "sms",
+        "quiet_hours_start": null,
+        "quiet_hours_end": null
+      }
+    ]
+  },
+  "resident_003": {
+    "resident_name": "王阿姨",
+    "contacts": [
+      {
+        "id": "c001",
+        "name": "王伟",
+        "relation": "儿子",
+        "phone": "13600002222",
+        "notify_method": "sms",
+        "quiet_hours_start": null,
+        "quiet_hours_end": null
+      },
+      {
+        "id": "c002",
+        "name": "王芳",
+        "relation": "女儿",
+        "phone": "13500003333",
+        "notify_method": "inapp",
+        "quiet_hours_start": "23:00",
+        "quiet_hours_end": "06:30"
+      }
+    ]
+  },
+  "resident_004": {
+    "resident_name": "刘大爷",
+    "contacts": [
+      {
+        "id": "c001",
+        "name": "刘洋",
+        "relation": "儿子",
+        "phone": "13400004444",
+        "notify_method": "wechat",
+        "quiet_hours_start": null,
+        "quiet_hours_end": null
+      }
+    ]
+  },
+  "resident_005": {
+    "resident_name": "陈奶奶",
+    "contacts": [
+      {
+        "id": "c001",
+        "name": "陈磊",
+        "relation": "儿子",
+        "phone": "13300005555",
+        "notify_method": "sms",
+        "quiet_hours_start": null,
+        "quiet_hours_end": null
+      }
+    ]
+  },
+  "user_001": {
+    "resident_name": "user_001",
+    "contacts": [
+      {
+        "id": "c001",
+        "name": "张小明",
+        "relation": "儿子",
+        "phone": "13800138000",
+        "notify_method": "sms",
+        "quiet_hours_start": null,
+        "quiet_hours_end": null
+      }
+    ]
+  },
+  "admin_001": {
+    "resident_name": "admin_001",
+    "contacts": [
+      {
+        "id": "c001",
+        "name": "郜sir",
+        "relation": "登子的爱徒",
+        "phone": "xxxxxx",
+        "notify_method": "sms",
+        "quiet_hours_start": null,
+        "quiet_hours_end": null
+      }
+    ]
+  }
+}

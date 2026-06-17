@@ -1,0 +1,56 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+.venv2/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated reports (runtime)
+backend/reports/*.md
+backend/reports/*.json
+
+# Vector DB (built from scripts)
+backend/data/vector_db/
+
+# Chat logs (runtime)
+backend/data/chat_logs/
+
+# Alert history (runtime)
+backend/data/alerts/alert_history.json
+
+# Plan files (development)
+.claude/
+
+# Archives
+*.zip
+
+# Playwright MCP
+.playwright-mcp/
